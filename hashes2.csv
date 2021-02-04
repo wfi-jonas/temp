@@ -1,0 +1,10 @@
+DateAdded,IndicatorType,IndicatorValue,ExpirationTime,Description
+20190116,FileSha256,afea8a07bd8a9cc42e2584b197bf158e37c48d7b4c75a8c559fd821d82620d45,,
+20190116,FileSha1,79045b9a5a5ef90b74fd0b581b92814cd8deeda6,,
+20190116,FileMD5,00f94d71860b7ec5418f06abeb206bf4,,
+20190116,FileMD5,113dda70f60b57c1992385ed45047109,,
+20201223,FileName,Particular.ServiceControl-4.14.2.exe,,
+20201223,FileMD5,6fecb2f31bfc01b3f34908a37098e27f,,
+20210204,IpAddress,8.8.8.8,,
+20210204,Url,http://www.google.be,,
+20210204,DomainName,www.google.be,,
