@@ -6,5 +6,7 @@ DateAdded,IndicatorType,IndicatorValue,ExpirationTime,Description
 20201223,FileName,Particular.ServiceControl-4.14.2.exe,,
 20201223,FileMD5,6fecb2f31bfc01b3f34908a37098e27f,,
 20210204,IpAddress,8.8.8.8,,
-20210204,Url,http://www.google.be,,
+20210204,Url,https://www.google.be,,
 20210204,DomainName,www.google.be,,
+20210204,FileSha256,37e588a2e81600180223ba6b8e194b2938b5e18ebc8c871ff28da98e6e5ef2c5,,
+20210204,Url,https://techcommunity.microsoft.com,,
