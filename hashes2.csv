@@ -10,3 +10,7 @@ DateAdded,IndicatorType,IndicatorValue,ExpirationTime,Description
 20210204,DomainName,www.google.be,,
 20210204,FileSha256,37e588a2e81600180223ba6b8e194b2938b5e18ebc8c871ff28da98e6e5ef2c5,,
 20210204,Url,https://techcommunity.microsoft.com,,
+20210204,FileSha1,be2f657d3b0f4e0691355bb5dcfec1cf5411e505,,
+20210204,FileMD5,c063b79b07c7038004178c17c2718dc4,,
+20210204,IpAddress,104.68.76.163,,
+20210204,FileName,scepissues_PUFW0020_21-02-04_16-24.zip,,
